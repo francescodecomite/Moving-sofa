@@ -3,7 +3,7 @@
 
 C'est un vieux problème de mathématiques récréatives : 
 
-Quelle est la plus grand surface qui puisse négocier un angle droit dans un couloir. 
+Quelle est la plus grand surface qui puisse négocier un angle droit dans un couloir ?
 
 - Version 1 : on ne demande que de tourner d'un seul coté. 
 - Version 2 : on doit pouvoir tourner à droite et à gauche. 
